@@ -1,7 +1,7 @@
 
 ### 📊 My Portfolio Projects
 
-- [Customer Segmentation Process ](https://github.com/gozdemadendere/My_Portfolio_Projects_2/tree/main/Customer_Segmentation_Process) |  Python (Pandas)
+- [Customer Segmentation Process](https://github.com/gozdemadendere/My_Portfolio_Projects_2/tree/main/Customer_Segmentation_Process)  |  Python (Pandas)
 
 
 ________________________ 
