@@ -1,6 +1,9 @@
 ## MÜŞTERİ SEGMENTASYON ANALİZİ (CUSTOMER SEGMENTATION PROCESS)
+(Kural Tabanlı  Sınırlandırma : Segmentasyon )
 
-- Müşteri segmentasyonu; benzer özelliklere, ihtiyaçlara ve davranışlara sahip müşterileri gruplara ayırma, ve bu gruplara özgü pazarlama stratejileri oluşturma sürecidir.
+- Müşteri segmentasyonu; benzer özelliklere, ihtiyaçlara, davranışlara sahip müşterileri gruplara ayırma, ve bu gruplara özgü pazarlama stratejileri oluşturma sürecidir.
+
+- Müşteri segmentini çeşitli kurallara göre oluştururuz. Örneğin müşterinin yaşı, yaşadığı şehir, harcama tutarına göre segment oluşturabiliriz. 
 
 - Segmentasyonun amacı, yeni müşterilerin hangi segmentte yer aldığını belirleyerek, pazarlama stratejilerini desteklemek ve bu müşterilerin ortalama getiri beklentisini hesaplamaktır.
 
@@ -8,7 +11,7 @@ ______________________________
 
 ### 1. İŞ PROBLEMI / PROJE HEDEFİ
 
-Bir oyun şirketi, müşteri özelliklerine dayanarak, seviye tabanlı yeni müşteri tanımları (persona) oluşturmayı ve bu tanımlara göre müşterileri segmentlere ayırmayı amaçlıyor.
+Bir oyun şirketi, müşteri özelliklerine dayanarak, seviye tabanlı(level based) yeni müşteri tanımları (persona) oluşturmayı ve bu tanımlara göre müşterileri segmentlere ayırmayı amaçlıyor.
 Ardından, bu segmentlere göre potansiyel yeni müşterilerin, şirkete ortalama gelir getirisini tahmin etmek istiyor.
 
 Örneğin: Türkiye’den IOS kullanan 25 yaşındaki bir erkek kullanıcının, ortalama getirisinin belirlenmesi hedefleniyor.
