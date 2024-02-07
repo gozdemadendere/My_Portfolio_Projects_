@@ -42,16 +42,16 @@ Oluşturulan Müşteri Segmentleri & Segment Bazlı Recency, Frequency ve Moneta
 
 #### Müşteri Segmentlerine Göre Öneriler:
 
-- Champions (Şampiyonlar):                           En değerli müşteriler. Özel teşviklerle ve VIP müşteri programları ile memnuniyetleri artırılabilir.
-- Loyal Customers (Sadık Müşteriler):                Düzenli alışveriş yapan müşteriler. Satışları artırmak için mevcut alışveriş alışkanlıklarına uygun ürün ve hizmetler önerilebilir.
-- Potential Loyalists (Potansiyel Sadık Müşteriler): Sadık müşteri olma potansiyeline sahip olanlar. Daha fazla alışveriş yapmaları için özel tekliflerle teşvik edilebilirler.
-- Promising (Umut Vadedenler):                       Potansiyel değer taşıyan müşteriler. Yeni ürünler veya kampanyalarla ilgileri çekilebilir.
-- New Customers (Yeni Müşteriler):                   Yeni müşterilere hoş geldin teklifleri sunulabilir ve ilk alışverişlerinde indirimler sağlanabilir.
-- Need Attention (Dikkat Edilmesi Gerekenler):       Memnuniyetsiz veya şikayetçi müşteriler. Sorunlarını çözmek için özel ilgi gösterilmelidir. Geri ödeme veya değişim gibi çözümler sunulabilir.
-- Can't Lose (Kaybedilemeyecekler):                  Potansiyel müşteri kaybı riski olanlar. Elde tutmak için özel teklifler sunulabilir.
-- At Risk (Risk Altındakiler):                       Kaybedilmesi riski olan müşteriler. Özel indirimler veya kampanyalarla tekrar kazanılmaya çalışılabilir.
-- About to Sleep (Uyumak Üzere Olanlar):             Az alışveriş yapan müşteriler. Aktif hale getirmek için özel teklifler sunulabilir.
-- Hibernating (Uykuda Olanlar):                      Alışveriş yapmayan eski müşteriler. Geri kazanmak için özel teklifler ve hatırlatıcı mesajlar gönderilebilir.
+- **Champions (Şampiyonlar):**                          En değerli müşteriler. Özel teşviklerle ve VIP müşteri programları ile memnuniyetleri artırılabilir.
+- **Loyal Customers (Sadık Müşteriler):**                Düzenli alışveriş yapan müşteriler. Satışları artırmak için mevcut alışveriş alışkanlıklarına uygun ürün ve hizmetler önerilebilir.
+- **Potential Loyalists (Potansiyel Sadık Müşteriler):** Sadık müşteri olma potansiyeline sahip olanlar. Daha fazla alışveriş yapmaları için özel tekliflerle teşvik edilebilirler.
+- **Promising (Umut Vadedenler):**                       Potansiyel değer taşıyan müşteriler. Yeni ürünler veya kampanyalarla ilgileri çekilebilir.
+- **New Customers (Yeni Müşteriler):**                   Yeni müşterilere hoş geldin teklifleri sunulabilir ve ilk alışverişlerinde indirimler sağlanabilir.
+- **Need Attention (Dikkat Edilmesi Gerekenler):**       Memnuniyetsiz veya şikayetçi müşteriler. Sorunlarını çözmek için özel ilgi gösterilmelidir. Geri ödeme veya değişim gibi çözümler sunulabilir.
+- **Can't Lose (Kaybedilemeyecekler):**                  Potansiyel müşteri kaybı riski olanlar. Elde tutmak için özel teklifler sunulabilir.
+- **At Risk (Risk Altındakiler):**                       Kaybedilmesi riski olan müşteriler. Özel indirimler veya kampanyalarla tekrar kazanılmaya çalışılabilir.
+- **About to Sleep (Uyumak Üzere Olanlar):**             Az alışveriş yapan müşteriler. Aktif hale getirmek için özel teklifler sunulabilir.
+- **Hibernating (Uykuda Olanlar):**                      Alışveriş yapmayan eski müşteriler. Geri kazanmak için özel teklifler ve hatırlatıcı mesajlar gönderilebilir.
 
 
 __________________________________
