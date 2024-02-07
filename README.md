@@ -1,5 +1,6 @@
 
 ### 📊 My Portfolio Projects
+- [FLO Customer Lifetime Value Prediction](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/FLO_Customer_Lifetime_Value_Prediction)  | Python (Pandas)
 - [FLO RFM Analysis & Customer Segmentation](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/FLO_RFM_Analysis_Customer_Segmentation)   |  Python (Pandas, Seaborn)
 - [Rule Based Customer Segmentation Process](https://github.com/gozdemadendere/My_Portfolio_Projects_2/tree/main/Customer_Segmentation_Process)  |  Python (Pandas)
 
