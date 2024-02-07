@@ -1,6 +1,6 @@
 
 ### 📊 My Portfolio Projects
-- [FLO_RFM_Analysis_Customer_Segmentation](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/FLO_RFM_Analysis_Customer_Segmentation)   |  Python (Pandas, Seaborn)
+- [FLO RFM_Analysis & Customer Segmentation](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/FLO_RFM_Analysis_Customer_Segmentation)   |  Python (Pandas, Seaborn)
 - [Customer Segmentation Process](https://github.com/gozdemadendere/My_Portfolio_Projects_2/tree/main/Customer_Segmentation_Process)  |  Python (Pandas)
 
 
