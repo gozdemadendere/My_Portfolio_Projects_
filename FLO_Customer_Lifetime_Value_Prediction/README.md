@@ -13,7 +13,7 @@ CLTV Tahmini = Beklenen satın alma sayısı x Beklenen ortalama kazanç(kar)
 ______________________________
 
 
-### 1. İŞ PROBLEMI / PROJE HEDEFİ
+### 1. İŞ PROBLEMİ / PROJE HEDEFİ
 
 Türkiye ayakkabı pazarının öncü firmalarından FLO, müşterilerinin şirkete sağlayacağı gelirin tahmin edilmesini ve bu CLTV değerlerine göre segmentlere ayrilmasını istiyor.
 
