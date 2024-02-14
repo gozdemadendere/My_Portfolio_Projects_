@@ -66,5 +66,6 @@ __________________________________
 
 Genel olarak bu proje, e-ticaretteki temel zorlukların üstesinden gelmek için veri odaklı yaklaşımın önemini vurgular ve sonuçta müşteri memnuniyetinin artmasına, ilgili e-ticaret sitesine ve satıcıya olan güvenin artmasına ve daha iyi ürün ve yorum görünürlüğüne katkı sağlayabilir.
 
-
+** My Medium article about this project:
+[Rating Products & Sorting Reviews on Amazon](https://medium.com/python-in-plain-english/rating-products-sorting-reviews-in-amazon-e7d7b1908d41)
 
