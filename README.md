@@ -1,9 +1,11 @@
 
 ### 📊 My Portfolio Projects
-- [FLO Customer Lifetime Value Prediction](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/FLO_Customer_Lifetime_Value_Prediction)  | Python (Pandas)
-- [FLO RFM Analysis & Customer Segmentation](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/FLO_RFM_Analysis_Customer_Segmentation)   |  Python (Pandas, Seaborn)
-- [Rule Based Customer Segmentation Process](https://github.com/gozdemadendere/My_Portfolio_Projects_2/tree/main/Customer_Segmentation_Process)  |  Python (Pandas)
-
+- [Amazon - Rating Products & Sorting Reviews](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/Amazon_Rating_Products_Sorting_Reviews)  | Python
+- [FLO - Customer Lifetime Value Prediction](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/FLO_Customer_Lifetime_Value_Prediction)  | Python
+- [FLO - RFM Analysis & Customer Segmentation](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/FLO_RFM_Analysis_Customer_Segmentation)   |  Python
+- [Rule Based Customer Segmentation Process](https://github.com/gozdemadendere/My_Portfolio_Projects_2/tree/main/Customer_Segmentation_Process)  |  Python
+- [Rule Based Customer Segmentation Process](https://github.com/gozdemadendere/My_Portfolio_Projects_2/tree/main/Customer_Segmentation_Process)  |  Python
+- [A/B Testing](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/AB_Testing)  |  Python
 
 ________________________ 
 
