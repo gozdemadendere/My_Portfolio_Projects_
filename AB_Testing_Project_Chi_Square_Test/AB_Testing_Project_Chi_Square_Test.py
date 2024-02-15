@@ -1,5 +1,5 @@
 #####################################################
-# # A/B Testing - Montana Eyalet Üniversitesi Kütüphanesi Websitesi | Anasayfa Buton Performanslarının Karşılaştırılması
+# A/B Testing - Montana State University Kütüphanesi Websitesi Buton Performanslarının Karşılaştırılması
 #####################################################
 
 # Hipotez testi: Bir inanışı/bir savı test etmek için kullanılan bir istatistiksel analiz yöntemidir.
@@ -19,26 +19,22 @@
 # 1. İş Problemi (Business Problem)
 #####################################################
 
-# Montana Eyalet Üniversitesi Kütüphanesi, öğrencilerin kitap ve makale bulmak için kullandığı bir web sitesine sahiptir.
-# Ana sayfada, kütüphane resminin altında, bir arama çubuğu ve “Find”, “Request”, “Interact” (Bul, Talep Et, Etkileşim) olmak üzere üç büyük öğe/button bulunmaktadır.
-# Bu düğmeler, kütüphane hakkında önemli bilgilere ve hizmetlere erişim sağlar.
+# Montana State University Kütüphanesi, öğrencilerin kitap ve makale bulmak için kullandığı bir web sitesine sahiptir.
+# Ana sayfada, kütüphane resminin altında, bir arama çubuğu ve “Find”, “Request”, “Interact” (Bul, Talep Et, Etkileşim) olmak üzere 3 büyük öğe/buton bulunmaktadır.
+# Bu butonlar, kütüphane hakkında önemli bilgilere ve hizmetlere erişim sağlar.
 
 
-# Ancak, Web Analizi, "Interact" (Etkileşim) düğmesinin, ironik bir şekilde, neredeyse hiç etkileşimi olmadığını göstermektedir.
-# Üç kategorinin her birinin performansını ölçmenin yolu, tıklama oranı (click-through rate = CTR) ile yapılır.
+# Ancak, Web Analizi, "Interact" (Etkileşim) butonunun, ironik bir şekilde, neredeyse hiç etkileşimi olmadığını göstermektedir.
+# 3 kategorinin her birinin performansını ölçmenin yolu, tıklama oranı (click-through rate = CTR) ile yapılır.
 # Bu çevrimiçi pazarlamada yaygın bir terimdir ve genellikle bir reklamın görüntülendiği sayıya bölünen tıklama sayısını açıklar.
 
 
-# Bu projenin temel amacı, Montana Eyalet Üniversitesi web sitesindeki bir düğmedeki farklı metinlerin CTR'sini (tıklama oranı) kontrol etmek için bir A/B Testi gerçekleştirmektir.
-# Web sitesi ekibi, "Interact" (Etkileşim) düğmesine karşı test etmek için 4 farklı yeni sürüm belirledi:
-# Connect
-# Learn
-# Help
-# Services
+# Bu projenin temel amacı, Montana State University web sitesindeki "Interact" butonundaki farklı metinlerin CTR'sini (tıklama oranı) test etmek için bir A/B Testi gerçekleştirmektir.
+# Web sitesi ekibi, "Interact" (Etkileşim) butonuna karşı test etmek için 4 farklı yeni sürüm/metin belirledi: Connect, Learn, Help, Services.
 
 
 # İzlenecek metrikler şunlardır:
-# Ana sayfadaki tıklama oranı (Click-through rate = CTR): Düğmedeki tıklama sayısının sayfa ziyaretlerinin toplamına bölünmesi. Kullanıcıları çekmek için kategori başlığının başlangıç yeteneğinin bir ölçüsü olarak seçildi.
+# Ana sayfadaki tıklama oranı (Click-through rate = CTR): Butondaki tıklama sayısının sayfa ziyaretlerinin toplamına bölünmesi. Kullanıcıları çekmek için kategori başlığının başlangıç yeteneğinin bir ölçüsü olarak seçildi.
 # Kategori sayfaları için terk oranı (Drop-off rate):     Belirli bir sayfadan siteyi terk eden ziyaretçilerin yüzdesi, kategori sayfasının kullanıcı beklentilerini karşılama yeteneğinin bir ölçüsü olarak seçildi.
 # Ana sayfaya dönüş oranı (Homepage-return rate ):        Kütüphane ana sayfasından kategori sayfasına geçen ve ardından ana sayfaya geri dönen kullanıcıların yüzdesi. Kategori sayfasının kullanıcı beklentilerini karşılama yeteneği olarak seçildi.
 
@@ -180,11 +176,11 @@ CTR_df
 ############################
 
 # H0: CRT(interact) = CRT(help) = CRT(services) = CRT(connect) = CRT(learn)
-# Button versiyonları arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark yoktur.
-# (Yani, bu buttonlar arasında belirgin bir performans farkı gözlemlenmemiştir. Görülen farklılıklar tesadüften kaynaklanmaktadır.)
+# Buton versiyonları arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark yoktur.
+# (Yani, bu buttnlar arasında belirgin bir performans farkı gözlemlenmemiştir. Görülen farklılıklar tesadüften kaynaklanmaktadır.)
 
-# H1: # Button versiyonları arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark vardır.
-# (Yani, bu buttonlar arasında belirgin bir performans farkı vardır. Biri veya birileri daha iyi performans sergiilemiştir.)
+# H1: # Buton versiyonları arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark vardır.
+# (Yani, bu butonlar arasında belirgin bir performans farkı vardır. Biri veya birileri daha iyi performans sergiilemiştir.)
 
 
 ############################
@@ -211,15 +207,15 @@ else:
 # The p-value is smaller than alpha. We reject the H0 Hypothesis
 
 # H0: CRT(interact) = CRT(help) = CRT(services) = CRT(connect) = CRT(learn)
-# Button versiyonları arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark yoktur.
-# (Yani, bu buttonlar arasında belirgin bir performans farkı gözlemlenmemiştir. Görülen farklılıklar tesadüften kaynaklanmaktadır.)
+# Buton versiyonları arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark yoktur.
+# (Yani, bu butonlar arasında belirgin bir performans farkı gözlemlenmemiştir. Görülen farklılıklar tesadüften kaynaklanmaktadır.)
 
 
 
 
 
 ### TEST 2 ###
-# H0 hipotezini reddettik, yani buttonlar arasında bir performans farkı bulunuyor.
+# H0 hipotezini reddettik, yani butonlar arasında bir performans farkı bulunuyor.
 # Bunu çözmek için olası bir yaklaşım, adayları daraltmaktır: en kötü performansı göstereni eleyelim ve testi yeniden yapalım.
 # Bu durumda “Interact”ı bırakacağız. (services > connect > help > learn > interact)
 
@@ -231,13 +227,13 @@ observed
 ############################
 
 # Null Hypothesis ( 𝐻0 ) : CRT(help) = CRT(services) = CRT(connect) = CRT(learn)
-# 4 button versiyonu arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark yoktur.
-# (Yani, bu buttonlar arasında belirgin bir performans farkı gözlemlenmemiştir. Görülen farklılıklar tesadüften kaynaklanmaktadır.)
+# 4 buton versiyonu arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark yoktur.
+# (Yani, bu butonlar arasında belirgin bir performans farkı gözlemlenmemiştir. Görülen farklılıklar tesadüften kaynaklanmaktadır.)
 
 
 # Alternative Hypothesis ( 𝐻𝐴 ) :
-# 4 button versiyonu arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark vardır.
-# (Yani, bu buttonlar arasında belirgin bir performans farkı vardır. )
+# 4 buton versiyonu arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark vardır.
+# (Yani, bu butonlar arasında belirgin bir performans farkı vardır. )
 
 
 ############################
@@ -264,8 +260,8 @@ else:
 # The p-value is smaller than alpha. We reject the H0 Hypothesis
 
 # H0: CRT(interact) = CRT(help) = CRT(services) = CRT(connect) = CRT(learn)
-# Button versiyonları arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark yoktur.
-# (Yani, bu buttonlar arasında belirgin bir performans farkı gözlemlenmemiştir. Görülen farklılıklar tesadüften kaynaklanmaktadır.)
+# Buton versiyonları arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark yoktur.
+# (Yani, bu butonlar arasında belirgin bir performans farkı gözlemlenmemiştir. Görülen farklılıklar tesadüften kaynaklanmaktadır.)
 
 
 
@@ -274,7 +270,7 @@ else:
 
 
 ### TEST 3 ###
-# H0 hipotezini reddettik, yani buttonlar arasında bir performans farkı bulunuyor.
+# H0 hipotezini reddettik, yani butonlar arasında bir performans farkı bulunuyor.
 # Adayları daraltıyoruz: En kötü performans gösteren ikinci adayı eleyip testi yeniden yapıyoruz.
 # Bu durumda Learn'ü bırakacağız. (services > connect > help > learn > interact)
 
@@ -286,13 +282,13 @@ observed
 ############################
 
 # Null Hypothesis ( 𝐻0 ) : CRT(help) = CRT(services) = CRT(connect)
-# 3 button versiyonu arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark yoktur.
-# (Yani, bu buttonlar arasında belirgin bir performans farkı gözlemlenmemiştir. Görülen farklılıklar tesadüften kaynaklanmaktadır.)
+# 3 buton versiyonu arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark yoktur.
+# (Yani, bu butonlar arasında belirgin bir performans farkı gözlemlenmemiştir. Görülen farklılıklar tesadüften kaynaklanmaktadır.)
 
 
 # Alternative Hypothesis ( 𝐻𝐴 ) :
-# 3 button versiyonu arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark vardır.
-# (Yani, bu buttonlar arasında belirgin bir performans farkı vardır. )
+# 3 buton versiyonu arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark vardır.
+# (Yani, bu butonlar arasında belirgin bir performans farkı vardır. )
 
 
 ############################
@@ -319,14 +315,14 @@ else:
 # The p-value is smaller than alpha. We reject the H0 Hypothesis
 
 # H0: CRT(interact) = CRT(help) = CRT(services) = CRT(connect)
-# Button versiyonları arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark yoktur.
-# (Yani, bu buttonlar arasında belirgin bir performans farkı gözlemlenmemiştir. Görülen farklılıklar tesadüften kaynaklanmaktadır.)
+# Buton versiyonları arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark yoktur.
+# (Yani, bu butonlar arasında belirgin bir performans farkı gözlemlenmemiştir. Görülen farklılıklar tesadüften kaynaklanmaktadır.)
 
 
 
 
 ### TEST 4 ###
-# H0 hipotezini reddettik, yani buttonlar arasında bir performans farkı bulunuyor.
+# H0 hipotezini reddettik, yani butonlar arasında bir performans farkı bulunuyor.
 # Adayları daraltıyoruz: En kötü performans gösteren üçüncü adayı eleyip testi yeniden yapıyoruz.
 # Bu durumda help'i bırakacağız. (services > connect > help > learn > interact)
 
@@ -338,13 +334,13 @@ observed
 ############################
 
 # Null Hypothesis ( 𝐻0 ) : CRT(services) = CRT(connect)
-# 2 button versiyonu arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark yoktur.
-# (Yani, bu buttonlar arasında belirgin bir performans farkı gözlemlenmemiştir. Görülen farklılıklar tesadüften kaynaklanmaktadır.)
+# 2 buton versiyonu arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark yoktur.
+# (Yani, bu butonlar arasında belirgin bir performans farkı gözlemlenmemiştir. Görülen farklılıklar tesadüften kaynaklanmaktadır.)
 
 
 # Alternative Hypothesis ( 𝐻𝐴 ) :
-# 2 button versiyonu arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark vardır.
-# (Yani, bu buttonlar arasında belirgin bir performans farkı vardır. )
+# 2 buton versiyonu arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark vardır.
+# (Yani, bu butonlar arasında belirgin bir performans farkı vardır. )
 
 
 ############################
@@ -371,23 +367,21 @@ else:
 # The p-value is larger than alpha. We can not reject the H0 Hypothesis
 
 # H0: CRT(services) = CRT(connect)
-# 2 button versiyonu arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark yoktur.
-# (Yani, bu buttonlar arasında belirgin bir performans farkı gözlemlenmemiştir. Görülen farklılıklar tesadüften kaynaklanmaktadır.)
+# 2 buton versiyonu arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark yoktur.
+# (Yani, bu butonlar arasında belirgin bir performans farkı gözlemlenmemiştir. Görülen farklılıklar tesadüften kaynaklanmaktadır.)
 
 
 ##############################################################
 # Sonuçların Analizi
 ##############################################################
 
-# Sonuç olarak, H0 hipotezini reddedemeyiz:
-# H0: CRT(services) = CRT(connect)
-# 2 button versiyonu arasında dönüşüm açısından İstatistiksel Olarak Anlamlı bir Fark yoktur.
-# (Yani, bu buttonlar arasında belirgin bir performans farkı gözlemlenmemiştir. Görülen farklılıklar tesadüften kaynaklanmaktadır.)
-
+# Yapılan hipotez testleri sonucunda, Services ve Connect butonları, diğer 3 butona göre istatistiksel olarak anlamlı bir performans farkı göstermiştir.
+# Ancak Services ve Connect butonları arasında dönüşüm açısından istatistiksel olarak anlamlı bir fark yoktur.
+# (Yani, bu 2 buton arasında belirgin bir performans farkı gözlemlenmemiştir. Görülen farklılıklar tesadüften kaynaklanmaktadır.)
 
 ## Öneriler:
-# Services ve Connect'in tıklanma oranı (click-through rate = CTR), diğer buttonlara göre daha iyidir (ve Services tıklanma oranı daha yüksektir.).
-# Ancak bu 2 sürümün de tıklanma alma olasılığı eşit olup, gözlemlenen farklılıklar şans eseridir. Bundan sonra sadece bu iki versiyona odaklanabiliriz.
+# Services ve Connect'in tıklanma oranı (click-through rate = CTR), diğer butonlara göre daha iyidir (ve Services butonunun tıklanma oranı daha yüksektir.).
+# Ancak bu 2 sürümün de tıklama alma olasılığı eşit olup, gözlemlenen farklılıklar şans eseridir. Bundan sonra sadece bu iki versiyona odaklanabiliriz.
 
 # Aşağıdaki sebeplerden dolayı kütüphanenin ana sayfasının değiştirilmesi ve tasarımın "Services" butonu ile kullanıma sunulması önemle tavsiye edilir:
 # Services, tüm seçenekler arasında en iyi tıklama oranını (click-through rate = CTR) gösterir.
