@@ -5,7 +5,8 @@
 - [FLO - RFM Analysis & Customer Segmentation](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/FLO_RFM_Analysis_Customer_Segmentation)   |  Python
 - [Rule Based Customer Segmentation Process](https://github.com/gozdemadendere/My_Portfolio_Projects_2/tree/main/Customer_Segmentation_Process)  |  Python
 - [Rule Based Customer Segmentation Process](https://github.com/gozdemadendere/My_Portfolio_Projects_2/tree/main/Customer_Segmentation_Process)  |  Python
-- [A/B Testing](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/AB_Testing)  |  Python
+- [A/B Testing - Comparison of 2 Bidding Methods](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/AB_Testing_Project_Two_Sample_T_Test)  |  Python
+- [A/B Testing - Comparison of Montana State University Website Buttons](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/AB_Testing_Project_Chi_Square_Test)  |  Python
 
 ________________________ 
 
