@@ -7,6 +7,8 @@
 - [Rule Based Customer Segmentation Process](https://github.com/gozdemadendere/My_Portfolio_Projects_2/tree/main/Customer_Segmentation_Process)  |  Python
 - [A/B Testing - Comparison of 2 Bidding Methods](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/AB_Testing_Project_Two_Sample_T_Test)  |  Python
 - [A/B Testing - Comparison of Montana State University Website Buttons](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/AB_Testing_Project_Chi_Square_Test)  |  Python
+- [Armut - Association Rule Based Recommender](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/Armut_Association_Rule_Based_Recommender) | Python
+- [Hybrid Recommender System](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/Hybrid_Recommender_System) | Python
 
 ________________________ 
 
