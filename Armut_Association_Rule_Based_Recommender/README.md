@@ -35,7 +35,7 @@ ______________________________
 
 #### Sepet Aşamasındaki Kullanıcılara Ürün Önerisinde Bulunmak
 
-En son 2_0 ID'li hizmeti alan müşteriye, yeni hizmetler önerilmiştir:
+Örnek: En son 2_0 ID'li hizmeti alan müşteriye, yeni hizmetler önerilmiştir:
 
 <img width="742" alt="Screen Shot 2024-02-24 at 7 20 53 PM" src="https://github.com/gozdemadendere/My_Portfolio_Projects_/assets/90986708/ae879cb8-c9b3-4b7d-b64e-4087f8bc4d02">
 
