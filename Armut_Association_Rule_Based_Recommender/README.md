@@ -1,4 +1,4 @@
-###  Movie Recommender System | Hybrid Recommender System
+###  MOVIE RECOMMENDER SYSTEM | HYBRID RECOMMENDER SYSTEM
 
 Collaborative Filtering: Topluluğun kullanıcı veya ürün bazında ortak kanaatlerini yansıtan öneriler sunulur.
 
