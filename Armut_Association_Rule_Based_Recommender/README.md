@@ -1,5 +1,4 @@
 ### ARMUT | Association Rule Based Ürün Tavsiye Sistemi (AR Based Recommender System)
-(Rating Products & Sorting Reviews)
 
 Association Rule Based Recommender:  Birliktelik analizi ile, sık olarak birlikte alınan ürünlere göre öneriler sunulur. (Sepet analizi)
 
