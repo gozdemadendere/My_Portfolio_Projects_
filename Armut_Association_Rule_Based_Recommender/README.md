@@ -1,42 +1,48 @@
-###  MOVIE RECOMMENDER SYSTEM | HYBRID RECOMMENDER SYSTEM
+### ARMUT | Association Rule Based Ürün Tavsiye Sistemi (AR Based Recommender System)
 
-Collaborative Filtering: Topluluğun kullanıcı veya ürün bazında ortak kanaatlerini yansıtan öneriler sunulur.
 
-- Item-Based Collaborative Filtering: Bir ürünün özelliklerine dayanarak, benzer ürünler önerir.  Kullanıcıların geçmiş tercihlerine bakmak yerine, bir ürünün diğer ürünlerle olan benzerliklerine odaklanır.
+Association Rule Based Recommender:  Birliktelik analizi ile, sık olarak birlikte alınan ürünlere göre öneriler sunulur. (Sepet analizi)
 
-- User-Based Collaborative Filtering: Benzer kullanıcıların tercihlerine dayanarak bir kullanıcıya öğeler önerir.
-
+ARL yöntemi, kullanıcıların puan verme alışkanlıklarına dayanmaz ve sadece ürünler arasındaki ilişkileri baz alır.
 
 ______________________________
 
 
 ### 1. İŞ PROBLEMİ / PROJE HEDEFİ
 
-Movie Recommender Systems projesinde, Item-Based Recommender ve User-Based Recommender yöntemlerini kullanarak kullanıcıya film önerilerinde bulununuz.
+Türkiye’nin en büyük online hizmet platformu olan Armut, hizmet verenler ile hizmet almak isteyenleri buluşturmaktadır.
+
+Bilgisayarın veya akıllı telefonunun üzerinden birkaç dokunuşla temizlik, tadilat, nakliyat gibi hizmetlere kolayca ulaşılmasını sağlamaktadır.
+
+Hizmet alan kullanıcıları ve bu kullanıcıların almış oldukları servis ve kategorileri içeren veri setini kullanarak, Association Rule Learning ile ürün tavsiye sistemi oluşturulmak istenmektedir.
+
+
 
 ______________________________
 
 ### 2. PROJE AŞAMALARI
 
-1. Veriyi Anlama & Hazırlama
-2. Item-Based Collaborative Filtering
-3. User-Based Collaborative Filtering
+1. İş Problemi                        (Business Problem)
+2. Veriyi Anlama & Hazırlama          (Data Understanding)
+3. ARL Veri Yapısını Hazırlama (Invoice-Product Matrix)
+4. Birliktelik Kurallarının Çıkarılması
+5. Sepet Aşamasındaki Kullanıcılara Ürün Önerisinde Bulunmak
 
 
 ______________________________
 
 ### 3. PROJE SONUÇLARI
 
-#### Film İzleyen Kullanıcılara Başka Film Önerisinde Bulunmak
+#### Sepet Aşamasındaki Kullanıcılara Ürün Önerisinde Bulunmak
 
-Örnek: Wild at Heart (1990) isimli filme en benzer filmler önerilmiştir:
+Örnek: En son 2_0 ID'li hizmeti alan müşteriye, yeni hizmetler önerilmiştir:
 
-<img width="755" alt="Screen Shot 2024-02-24 at 10 04 07 PM" src="https://github.com/gozdemadendere/My_Portfolio_Projects_/assets/90986708/7922ab57-0804-4543-a21b-e79aeeb93fdf">
+<img width="742" alt="Screen Shot 2024-02-24 at 7 20 53 PM" src="https://github.com/gozdemadendere/My_Portfolio_Projects_/assets/90986708/ae879cb8-c9b3-4b7d-b64e-4087f8bc4d02">
 
 
 __________________________________
 ### Sonuç:
 
-Film Öneri Sistemi projesi, hem Item-Based Collaborative Filtering hem de User-Based Collaborative Filtering yöntemlerini kullanarak kullanıcılara film önerilerinde bulunmayı amaçlamaktadır.
+Genel olarak bu proje, Armut platformunda hizmet alan müşterilere, alışveriş sepetlerine göre öneriler sunmak amacıyla Birliktelik Kuralları Analizi kullanarak bir ürün tavsiye sistemi geliştirmiştir.
 
-Bu projenin genel olarak başarılı bir şekilde uygulanmasıyla, film izleyen kullanıcılara daha kişiselleştirilmiş ve ilgi çekici film önerileri sunulması sağlanmıştır. Bu da kullanıcı memnuniyetini artırarak platformdaki etkileşimi ve kullanımı artırabilir.
+Bu sayede, kullanıcıların daha kişiselleştirilmiş hizmet önerileri almasını sağlayarak platformda satış adetlerini ve kullanıcı memnuniyetini arttırabiliriz.
