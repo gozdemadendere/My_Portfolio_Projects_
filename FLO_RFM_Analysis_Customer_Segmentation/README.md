@@ -35,9 +35,12 @@ ______________________________
 #### Soru 1:
 Oluşturulan Müşteri Segmentleri & Segment Bazlı Recency, Frequency ve Monetary Ortalamaları nasıldır?
 
-<img width="600" alt="Screen Shot 2024-02-07 at 11 46 30 AM" src="https://github.com/gozdemadendere/miuul_data_science_bootcamp/assets/90986708/7594c4ab-b765-4d3a-b91a-8dd416f2455c">
+<img width="650" alt="Screen Shot 2024-02-07 at 11 46 30 AM" src="https://github.com/gozdemadendere/miuul_data_science_bootcamp/assets/90986708/7594c4ab-b765-4d3a-b91a-8dd416f2455c">
 
-<img width="400" alt="Screen Shot 2024-02-07 at 11 51 24 AM" src="https://github.com/gozdemadendere/miuul_data_science_bootcamp/assets/90986708/5107b094-98e4-4e76-84f8-3f1a3bb27f1f">
+
+<img width="665" alt="Screen Shot 2024-02-27 at 10 45 41 PM" src="https://github.com/gozdemadendere/My_Portfolio_Projects_/assets/90986708/3862ac9b-da8d-4889-8cd2-d7555db20fc2">
+
+
 
 
 #### Müşteri Segmentlerine Göre Öneriler:
@@ -62,7 +65,7 @@ FLO bünyesine dahil edilen yeni bir kadın ayakkabı markasının tanıtımı v
 Bu müşterilerin "sadık müşterilerden (champions, loyal_customers) ve kadın kategorisinden alışveriş yapan kişiler" olması planlandı. Bu profildeki müşterilerin id numaralarını bulunuz.
 
 
-<img width="600" alt="Screen Shot 2024-02-07 at 12 10 33 PM" src="https://github.com/gozdemadendere/miuul_data_science_bootcamp/assets/90986708/10ef2888-7a8d-4f5e-96e8-873c1adef770">
+<img width="650" alt="Screen Shot 2024-02-07 at 12 10 33 PM" src="https://github.com/gozdemadendere/miuul_data_science_bootcamp/assets/90986708/10ef2888-7a8d-4f5e-96e8-873c1adef770">
 
 __________________________________
 
@@ -72,7 +75,7 @@ FLO Erkek ve Çoçuk ürünlerinde %40'a yakın indirim planlanmaktadır.
 
 Bu indirimle ilgili kategorilerle ilgilenen "geçmişte iyi müşterilerden olan ama uzun süredir alışveriş yapmayan" ve "yeni gelen müşteriler" özel olarak hedef alınmak isteniliyor. Bu profildeki müşterilerin id numaralarını bulunuz.
 
-<img width="600" alt="Screen Shot 2024-02-07 at 12 09 42 PM" src="https://github.com/gozdemadendere/miuul_data_science_bootcamp/assets/90986708/2e3f94fb-2677-4932-b06e-b0994ca90052">
+<img width="650" alt="Screen Shot 2024-02-07 at 12 09 42 PM" src="https://github.com/gozdemadendere/miuul_data_science_bootcamp/assets/90986708/2e3f94fb-2677-4932-b06e-b0994ca90052">
 
 
 __________________________________
