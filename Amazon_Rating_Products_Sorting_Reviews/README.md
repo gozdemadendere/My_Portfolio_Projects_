@@ -7,7 +7,7 @@ Bu problemin çözümü daha fazla müşteri memnuniyeti sağlar, satıcılar i�
 Bir diğer problem ise ürünlere verilen yorumların doğru bir şekilde sıralanmasıdır (Sorting Reviews). Yanıltıcı yorumların öne çıkması, ürünün satışını doğrudan etkileyeceğinden dolayı hem maddi hem de müşteri kaybına neden olacaktır.
 
 Bu 2 temel problemin çözümünde e-ticaret sitesi ve satıcılar satışlarını arttırırken, müşteriler ise satın alma yolculuğunu sorunsuz olarak tamamlayacaktır.
-
+ 
 ______________________________
 
 
