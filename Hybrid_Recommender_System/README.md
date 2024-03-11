@@ -6,7 +6,6 @@ Collaborative Filtering: Topluluğun kullanıcı veya ürün bazında ortak kana
 
 - User-Based Collaborative Filtering: Benzer kullanıcıların tercihlerine dayanarak bir kullanıcıya öğeler önerir.
 
-
 ______________________________
 
 
