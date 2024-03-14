@@ -10,7 +10,7 @@ Genellikle web sitesi tasarımını, uygulama tasarımını, reklamcılığı, f
 ______________________________
 
 
-### 1. İŞ PROBLEMİ / PROJE HEDEFİ
+### 1. İŞ PROBLEMİ / PROJE HEDEFİ 
 
 Facebook kısa bir süre önce mevcut "maximumbidding" adı verilen teklif verme türüne alternatif olarak yeni bir teklif türü olan "average bidding"’i tanıttı.
 
