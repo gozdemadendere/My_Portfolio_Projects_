@@ -4,7 +4,7 @@ Collaborative Filtering: Topluluğun kullanıcı veya ürün bazında ortak kana
 
 - Item-Based Collaborative Filtering: Bir ürünün özelliklerine dayanarak, benzer ürünler önerir.  Kullanıcıların geçmiş tercihlerine bakmak yerine, bir ürünün diğer ürünlerle olan benzerliklerine odaklanır.
 
-- User-Based Collaborative Filtering: Benzer kullanıcıların tercihlerine dayanarak bir kullanıcıya öğeler önerir.
+- User-Based Collaborative Filtering: Benzer kullanıcıların tercihlerine dayanarak bir kullanıcıya öğeler önerir. 
 
 ______________________________
 
