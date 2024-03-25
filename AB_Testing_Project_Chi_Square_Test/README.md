@@ -6,7 +6,7 @@ Genellikle web sitesi tasarımını, uygulama tasarımını, reklamcılığı, f
 
 2 grup karşılaştırmasında temel amaç, olası farklılıkların şans eseri ortaya çıkıp çıkmadığını test etmektir.
 
-______________________________
+______________________________ 
 
 
 ### 1. İŞ PROBLEMİ / PROJE HEDEFİ
