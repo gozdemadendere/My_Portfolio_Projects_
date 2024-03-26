@@ -7,7 +7,7 @@ ARL yöntemi, kullanıcıların puan verme alışkanlıklarına dayanmaz ve sade
 
 ______________________________
 
-
+ 
 ### 1. İŞ PROBLEMİ / PROJE HEDEFİ
 
 Türkiye’nin en büyük online hizmet platformu olan Armut, hizmet verenler ile hizmet almak isteyenleri buluşturmaktadır.
