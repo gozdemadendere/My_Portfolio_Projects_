@@ -16,7 +16,7 @@ ________________________
 
 - **SQL** | Query and Data Modeling
 - **Tableau** | Building Dashboards & Data Visualization
-- **Python** | Pandas,  Matplotlib, Seaborn, Plotly, Streamlit, NumPy, BeautifulSoup
+- **Python** | Pandas,  Matplotlib, Seaborn, Plotly, Streamlit, NumPy, BeautifulSoup 
 - **Machine Learning** | Scikit-Learn
 - **A/B Testing** | Hypothesis Tests
 - **Microsoft** | Excel, Word, Powerpoint
