@@ -9,7 +9,7 @@ Bu yöntem, müşterinin geçmiş davranışlarını ve satın alma alışkanlı
 Şirketlerin müşterileriyle ilişkilerini yönetmelerine ve pazarlama stratejilerini desteklemelerine yardımcı olur.
 
 CLV Tahmini = Beklenen satın alma sayısı x Beklenen ortalama kazanç(kar)
-
+ 
 ______________________________
 
 
