@@ -6,7 +6,7 @@ Müşterilerin satın alma alışkanlıkları üzerinden segmentlere ayrılması
 
 - Recency   = Analiz tarihi - Müşterinin son satın alma tarihi
 - Frequency = Müşterinin toplam satın alma sayısı   (toplam işlem veya fatura sayısı)
-- Monetary  = Müşterinin TOPLAM Harcama tutarı
+- Monetary  = Müşterinin TOPLAM Harcama tutarı 
 
 ______________________________
 
