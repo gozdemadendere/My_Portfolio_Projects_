@@ -11,7 +11,7 @@ Müşterilerin satın alma alışkanlıkları üzerinden segmentlere ayrılması
 ______________________________
 
 
-### 1. İŞ PROBLEMİ / PROJE HEDEFİ
+### 1. İŞ PROBLEMİ / PROJE HEDEFİ 
 
 Türkiye ayakkabı pazarının öncü firmalarından FLO, müşterilerini satın alma alışkanlıkları üzerinden segmentlere ayırmak ve bu segmentler özelinde stratejiler geliştirmek istiyor.
 
