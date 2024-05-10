@@ -1,6 +1,6 @@
 ## KURAL TABANLI MÜŞTERİ SEGMENTASYON ANALİZİ (RULE BASED CUSTOMER SEGMENTATION PROCESS)
 
-- Müşteri Segmentasyon Süreci, benzer özelliklere, ihtiyaçlara, davranışlara sahip müşterilerin gruplandırılması / segmente edilmesi ve her gruba özel pazarlama stratejilerinin oluşturulmasını içerir.
+- Müşteri Segmentasyon Süreci, müşterilerin benzer özelliklere, ihtiyaçlara ve davranışlara göre gruplandırılması / segmente edilmesi ve her gruba özel pazarlama stratejilerinin oluşturulmasını içerir.
 
 - Müşteri segmentini çeşitli kurallara göre oluştururuz. Örneğin müşterinin yaşı, yaşadığı şehir, harcama tutarına göre segment oluşturabiliriz. 
 
