@@ -4,7 +4,7 @@
 
 - Müşteri segmentini çeşitli kurallara göre oluştururuz. Örneğin müşterinin yaşı, yaşadığı şehir, harcama tutarına göre segment oluşturabiliriz. 
 
-- Segmentasyonun amacı, yeni müşterilerin hangi segmentte yer aldığını belirleyerek, pazarlama stratejilerini desteklemek ve bu müşterilerin ortalama getiri beklentisini hesaplamaktır.
+- Müşteri segmentasyonunun amacı, yeni müşterilerin hangi segmentte yer aldığını belirleyerek, pazarlama stratejilerini desteklemek ve bu müşterilerin ortalama getiri beklentisini hesaplamaktır.
 
 ______________________________
 
