@@ -11,7 +11,7 @@ ______________________________
 
 ### 1. İŞ PROBLEMI / PROJE HEDEFİ
 
-Bir oyun şirketi, müşteri özelliklerine dayanarak, seviye tabanlı yeni müşteri tanımları (persona) oluşturmayı ve bu tanımlara göre müşterileri segmentlere ayırmayı amaçlıyor.
+Bir oyun şirketi, müşteri özelliklerine, ihtiyaçlarına ve davranışlarına dayanarak, kural bazlı sınıflandırma ile müşteri segmentleri oluşturmayı amaçlıyor.
 Ardından, bu segmentlere göre potansiyel yeni müşterilerin, şirkete ortalama gelir getirisini tahmin etmek istiyor.
 
 Örneğin: Türkiye’den IOS kullanan 25 yaşındaki bir erkek kullanıcının, ortalama getirisinin belirlenmesi hedefleniyor.
